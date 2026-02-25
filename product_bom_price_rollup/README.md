@@ -1,6 +1,6 @@
-============================
 MRP Auto Merge by Product
 ============================
+
 
 Automatic Sales Price roll-up from BoM components for Odoo 17.
 
@@ -84,3 +84,4 @@ This module is licensed under the **LGPL-3.0** license.
 
 See the ``LICENSE`` file at the root of the repository for the full
 license text.
+
