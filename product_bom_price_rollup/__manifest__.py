@@ -5,9 +5,10 @@
     "version": "17.0.1.0.0",
     "category": "Manufacturing",
     "author": "co-ux99",
-    "license": "LGPL-3",
+    "license": "LGPL-2.1",
     "depends": ["product", "mrp"],
     "data": [],
     "installable": True,
     "application": False,
 }
+
